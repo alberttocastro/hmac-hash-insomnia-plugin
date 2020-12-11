@@ -1,0 +1,13 @@
+{
+  "name": "hmacs-calculator-insomnia",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "hmacs-caulculator",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
